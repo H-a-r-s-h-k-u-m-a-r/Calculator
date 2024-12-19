@@ -10,7 +10,7 @@ body{
 .container{
 	height: 100%;
 	width: 100%;
-	background-image: url(/HTML/html1/cal.jpeg);
+	background-image: url(cal.jpeg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	display: flex;
